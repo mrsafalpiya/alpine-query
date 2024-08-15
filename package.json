@@ -1,15 +1,15 @@
 {
-  "name": "PLUGIN",
+  "name": "alpine-query",
   "version": "1.0.0",
-  "description": "DESCRIPTION",
+  "description": "Async query helper inspired by React Query",
   "keywords": [
     "Alpine",
     "Alpine JS",
     "Alpine JS Plugin",
     "Alpine JS Plugins"
   ],
-  "module": "dist/FILE.esm.js",
-  "unpkg": "dist/FILE.min.js",
+  "module": "dist/query.esm.js",
+  "unpkg": "dist/query.min.js",
   "scripts": {
     "build": "node scripts/build.js"
   },
