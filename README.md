@@ -38,4 +38,4 @@ Examples of how the plugin works.
 ![](https://img.shields.io/bundlephobia/min/alpine-query)
 ![](https://img.shields.io/npm/v/alpine-query)
 ![](https://img.shields.io/npm/dt/alpine-query)
-![](https://img.shields.io/github/license/markmead/alpine-query)
+![](https://img.shields.io/github/license/mrsafalpiya/alpine-query)
